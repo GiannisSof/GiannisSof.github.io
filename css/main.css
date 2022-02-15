@@ -20,7 +20,7 @@ img {
 }
 
 .nav-container {
-  background: #ee3800;
+  background: #6700EE;
 }
 
 .nav-container a {
@@ -58,7 +58,7 @@ header ul a {
 }
 
 .hero {
-  background: #ee3800;
+  background: #6E00FF;
   color: white;
   display: -ms-grid;
   display: grid;
@@ -110,7 +110,7 @@ section {
 .subtitle {
   text-transform: uppercase;
   font-weight: bold;
-  color: #ee3800;
+  color: #6E00FF;
   letter-spacing: .2em;
   font-size: .85em;
 }
@@ -266,7 +266,7 @@ section {
     padding: 0;
   }
   .hero .content {
-    background: #ee3800;
+    background: #6E00FF;
     padding: 6em 8em 6em 4em;
     text-align: left;
   }
